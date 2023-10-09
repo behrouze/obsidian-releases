@@ -1583,5 +1583,13 @@
     "repo": "kepano/flexoki-obsidian",
     "screenshot": "cover-small.png",
     "modes": ["dark", "light"]
-  }
+  },
+  {
+    "name": "Perso",
+    "author": "Behrouze",
+    "repo": "https://github.com/behrouze/obsidian-theme",
+    "screenshot": "screenshots\theme-perso-obsidian.png",
+    "modes": ["light"],
+	  "branch": "main"
+  },
 ]
